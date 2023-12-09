@@ -1,3 +1,10 @@
+Contributors:
+Harshit Shah - shahhars@usc.edu
+Yash Sharma - yashshar@usc.edu
+Rizq Khateeb - khateeb@usc.edu
+Milad Farazian - farazian@usc.edu
+Charlie Floeder - floeder@usc.edu
+
 FUNDUS.ipynb : 
 	Link to dataset - https://drive.google.com/drive/folders/1nDXC9eiBNvGsRCDxDTvsmkGjpYPo5gpS?usp=sharing
 	
