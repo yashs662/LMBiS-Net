@@ -1,15 +1,14 @@
-Contributors:
-Harshit Shah - shahhars@usc.edu
-Yash Sharma - yashshar@usc.edu
-Rizq Khateeb - khateeb@usc.edu
-Milad Farazian - farazian@usc.edu
-Charlie Floeder - floeder@usc.edu
+Contributors:<br>
+Harshit Shah - shahhars@usc.edu<br>
+Yash Sharma - yashshar@usc.edu<br>
+Rizq Khateeb - khateeb@usc.edu<br>
+Milad Farazian - farazian@usc.edu<br>
+Charlie Floeder - floeder@usc.edu<br>
 
 FUNDUS.ipynb : 
 	Link to dataset - https://drive.google.com/drive/folders/1nDXC9eiBNvGsRCDxDTvsmkGjpYPo5gpS?usp=sharing
 	
 	Once you add the dataset to your My drive folder on colab, you should be able to run the notebook.
-	There may be an error.
 
 
 STARE.ipynb : 
